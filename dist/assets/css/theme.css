@@ -14061,4 +14061,7 @@ article table {
 .docs-graphic:not(:hover) .btn {
   opacity: 0; }
 
+.highlight {
+  background: #00afca; }
+
 /*# sourceMappingURL=theme.css.map */
